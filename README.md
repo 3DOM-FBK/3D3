@@ -24,7 +24,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ## 🌲 3D3 dataset table 
 
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -109,6 +109,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
     </tr>
   </tbody>
 </table>
+</div>
 
 
 

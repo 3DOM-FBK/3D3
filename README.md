@@ -7,18 +7,18 @@
 <p align="center">
   <strong>A multi-sensor and multi-resolution dataset to support forest inventory methods</strong>  
   <br>
-  <a href="[pending-paper-link]">📄 Paper (*Pending*)</a> | <a href="[pending-dataset-link]">🌲 Dataset (*Pending*)</a>
+  <a href="[pending-paper-link]">📄 Paper (Pending)</a> | <a href="[pending-dataset-link]">🌲 Dataset (Pending)</a>
 </p>
 
 ---
 
 ## 🌍 Overview
 
-**3D3** is a large-scale benchmark designed to evaluate 3D forest analysis methods under a wide range of acquisition conditions and sensing modalities.
+**3D3** is a large-scale benchmark designed to evaluate high-resolution 3D forestry methods, under a wide range of acquisition conditions and sensing modalities.
 
 It integrates **airborne, helicopter, UAV, mobile, and terrestrial LiDAR** with **hyperspectral** and **RGB** data across diverse European forest types — from **urban** and **Mediterranean** to **boreal** environments.  
 
-Each site provides **ground truth for at least one core task** — *individual tree segmentation (ITS)*, *forest semantic segmentation (FSS)*, or *species classification* — ensuring consistent reference data across modalities and acquisition densities.  
+Each site provides **ground truth for at least one core task of high-resolution 3D forestry** — *individual tree segmentation (ITS)*, *forest semantic segmentation (FSS)*, or *tree species classification* — ensuring consistent reference data across modalities and acquisition densities.  
 
 ---
 

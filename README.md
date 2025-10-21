@@ -24,130 +24,103 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ## 🌲 3D3 dataset table 
 
-<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse; width:100%; font-family:Arial, sans-serif;">
-  <thead>
-    <tr style="background:#f2f2f2; text-align:left;">
-      <th style="width:14%;">Dataset</th>
-      <th style="width:14%;">A</th>
-      <th style="width:14%;">B</th>
-      <th style="width:14%;">C</th>
-      <th style="width:14%;">D</th>
-      <th style="width:14%;">E</th>
-      <th style="width:16%;">F</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Instrument</th>
-      <td>
-        Riegl VQ780ii<br>
-        Mono-wavelength LiDAR (1064 nm)
-      </td>
-      <td>
-        Teledyne Optech GALAXY T1000 - Mono-wavelength LiDAR (1064 nm);<br>
-        SPECIM AISAFENIX - Hyperspectral camera (381.35 nm to 2502.38 nm);<br>
-        PhaseOne iXU-RS 1000 RGB camera
-      </td>
-      <td>
-        Riegl VUX-120 Mono-wavelength LiDAR (1550 nm);<br>
-        PhaseOne iXM100 RSM35 RGB camera
-      </td>
-      <td>
-        HeliALS multispectral LiDAR:<br>
-        VQ-840-G (532 nm),<br>
-        miniVUX-1DL (905 nm),<br>
-        VUX-1HA (1550 nm)
-      </td>
-      <td>
-        DJI-L1 Mono-wavelength LiDAR (905 nm)
-      </td>
-      <td>
-        Semi-Synthetic
-      </td>
-    </tr>
+<div style="text-align: center;">
+<table style="margin: auto;" width="95%">
+<thead>
+<tr>
+  <th width="10%"></th>
+  <th width="15%">Dataset</th>
+  <th width="20%">Instrument</th>
+  <th width="10%">Platform</th>
+  <th width="15%">Approx. density / resolution</th>
+  <th width="15%">Area of Interest</th>
+  <th width="15%">Type of data</th>
+  <th width="10%">Ground Truth (GT)</th>
+</tr>
+</thead>
 
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Platform</th>
-      <td>Aircraft</td>
-      <td>Aircraft</td>
-      <td>Helicopter</td>
-      <td>Helicopter</td>
-      <td>UAV, MLS and TLS</td>
-      <td>Aircraft</td>
-    </tr>
+<tbody>
 
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Approximated density / resolution</th>
-      <td>15 pts/m²</td>
-      <td>
-        LiDAR: 75 pts/m²<br>
-        Hyperspectral: 60 cm<br>
-        RGB ortho: 10 cm
-      </td>
-      <td>375 pts/m²</td>
-      <td>1200 pts/m²</td>
-      <td>2000 pts/m²</td>
-      <td>From 0 to 75 pts/m²</td>
-    </tr>
+<!-- ======================= Dataset A ======================= -->
+<tr>
+  <td rowspan="3" valign="top"><strong>3<br>D<br>3</strong></td>
+  <td colspan="1" align="center">A</td>
+  <td rowspan="3" align="center">Riegl VQ780ii<br>Mono-wavelength LiDAR (1064 nm)</td>
+  <td rowspan="3" align="center">Aircraft</td>
+  <td rowspan="3" align="center">15 pts/m²</td>
+  <td rowspan="3" align="center">1000 × 12000 m</td>
+  <td rowspan="3" align="center">LiDAR: X, Y, Z, I<br>Urban, Mediterranean biome</td>
+  <td rowspan="3" align="center">ITS, species<br>(32,350 trees in 203 classes)</td>
+</tr>
+<tr><td align="center"><img src="./pictures/3D3/A.png" height="100" width="130"></td></tr>
+<tr><td align="center"><img src="./pictures/3D3/A_network.png" height="100" width="130"></td></tr>
 
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Area of Interest</th>
-      <td>1000 m × 12000 m</td>
-      <td>1680 m × 1550 m</td>
-      <td>2000 m × 2000 m</td>
-      <td>2000 m × 500 m</td>
-      <td>275 m × 150 m</td>
-      <td>Flexible</td>
-    </tr>
+<!-- ======================= Dataset B ======================= -->
+<tr>
+  <td colspan="1" align="center">B</td>
+  <td rowspan="3" align="center">Teledyne Optech GALAXY T1000 LiDAR (1064 nm);<br>SPECIM AISAFENIX Hyperspectral (381–2502 nm);<br>PhaseOne iXU-RS 1000 RGB</td>
+  <td rowspan="3" align="center">Aircraft</td>
+  <td rowspan="3" align="center">LiDAR: 75 pts/m²<br>HSI: 60 cm<br>RGB: 10 cm</td>
+  <td rowspan="3" align="center">1680 × 1550 m</td>
+  <td rowspan="3" align="center">LiDAR: X,Y,Z,I<br>Hyperspectral: 364 bands<br>RGB: R,G,B<br>Dense, Continental biome</td>
+  <td rowspan="3" align="center">Species (237 trees, 5 classes)</td>
+</tr>
+<tr><td align="center"><img src="./pictures/3D3/B.png" height="100" width="130"></td></tr>
+<tr><td align="center"><img src="./pictures/3D3/B_network.png" height="100" width="130"></td></tr>
 
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Type of data</th>
-      <td>
-        LiDAR: X, Y, Z, I
-      </td>
-      <td>
-        LiDAR: X, Y, Z, I;<br>
-        Hyperspectral: 364 bands;<br>
-        OrthoRGB: R, G, B
-      </td>
-      <td>
-        LiDAR: X, Y, Z, I
-      </td>
-      <td>
-        LiDAR: X, Y, Z, SWIR, NIR, Green
-      </td>
-      <td>
-        LiDAR: X, Y, Z, I
-      </td>
-      <td>
-        LiDAR: X, Y, Z, I
-      </td>
-    </tr>
+<!-- ======================= Dataset C ======================= -->
+<tr>
+  <td colspan="1" align="center">C</td>
+  <td rowspan="3" align="center">Riegl VUX-120 LiDAR (1550 nm);<br>PhaseOne iXM100 RGB</td>
+  <td rowspan="3" align="center">Helicopter</td>
+  <td rowspan="3" align="center">375 pts/m²</td>
+  <td rowspan="3" align="center">2000 × 2000 m</td>
+  <td rowspan="3" align="center">LiDAR: X, Y, Z, I<br>Dense, Mediterranean biome</td>
+  <td rowspan="3" align="center">ITS</td>
+</tr>
+<tr><td align="center"><img src="./pictures/3D3/C.png" height="100" width="130"></td></tr>
+<tr><td align="center"><img src="./pictures/3D3/C_network.png" height="100" width="130"></td></tr>
 
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Biome</th>
-      <td>Urban, Mediterranean</td>
-      <td>Dense, Continental</td>
-      <td>Dense, Mediterranean</td>
-      <td>Touching trees, Boreal</td>
-      <td>Dense, Continental</td>
-      <td>Variable</td>
-    </tr>
+<!-- ======================= Dataset D ======================= -->
+<tr>
+  <td colspan="1" align="center">D</td>
+  <td rowspan="3" align="center">HeliALS multispectral LiDAR:<br>VQ-840-G (532 nm), miniVUX-1DL (905 nm), VUX-1HA (1550 nm)</td>
+  <td rowspan="3" align="center">Helicopter</td>
+  <td rowspan="3" align="center">1200 pts/m²</td>
+  <td rowspan="3" align="center">2000 × 500 m</td>
+  <td rowspan="3" align="center">LiDAR: X, Y, Z, SWIR, NIR, Green<br>Boreal biome</td>
+  <td rowspan="3" align="center">FSS (six classes)</td>
+</tr>
+<tr><td align="center"><img src="./pictures/3D3/D.png" height="100" width="130"></td></tr>
+<tr><td align="center"><img src="./pictures/3D3/D_network.png" height="100" width="130"></td></tr>
 
-    <tr>
-      <th style="text-align:left; background:#fafafa;">Ground Truth</th>
-      <td>
-        ITS, species<br>
-        <small>(32,350 trees in 203 classes)</small>
-      </td>
-      <td>
-        Species<br>
-        <small>(237 trees in 5 classes)</small>
-      </td>
-      <td>ITS</td>
-      <td>FSS (six classes)</td>
-      <td>ITS, trunk sizes, tree species</td>
-      <td>ITS, FSS, species</td>
-    </tr>
-  </tbody>
+<!-- ======================= Dataset E ======================= -->
+<tr>
+  <td colspan="1" align="center">E</td>
+  <td rowspan="3" align="center">DJI-L1 Mono-wavelength LiDAR (905 nm)</td>
+  <td rowspan="3" align="center">UAV, MLS, TLS</td>
+  <td rowspan="3" align="center">2000 pts/m²</td>
+  <td rowspan="3" align="center">275 × 150 m</td>
+  <td rowspan="3" align="center">LiDAR: X, Y, Z, I<br>Dense, Continental biome</td>
+  <td rowspan="3" align="center">ITS, trunk sizes, tree species</td>
+</tr>
+<tr><td align="center"><img src="./pictures/3D3/E.png" height="100" width="130"></td></tr>
+<tr><td align="center"><img src="./pictures/3D3/E_network.png" height="100" width="130"></td></tr>
+
+<!-- ======================= Dataset F ======================= -->
+<tr>
+  <td colspan="1" align="center">F</td>
+  <td rowspan="3" align="center">Semi-Synthetic</td>
+  <td rowspan="3" align="center">Aircraft</td>
+  <td rowspan="3" align="center">0–75 pts/m²</td>
+  <td rowspan="3" align="center">Flexible</td>
+  <td rowspan="3" align="center">LiDAR: X, Y, Z, I<br>Variable biome</td>
+  <td rowspan="3" align="center">ITS, FSS, species</td>
+</tr>
+<tr><td align="center"><img src="./pictures/3D3/F.png" height="100" width="130"></td></tr>
+<tr><td align="center"><img src="./pictures/3D3/F_network.png" height="100" width="130"></td></tr>
+
+</tbody>
 </table>
+</div>
+

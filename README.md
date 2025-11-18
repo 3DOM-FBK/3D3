@@ -32,9 +32,9 @@ Each site provides **ground truth for at least one core task of high-resolution 
 | **Platform** | Aircraft | Aircraft | Helicopter | Helicopter | UAV, MLS and<br>TLS | Miscellaneous |
 | **Approximated<br>density/resolution** | LiDAR: 10 pts/m² | LiDAR: 75 pts/m²<br>Hyperspectral: 60 cm<br>RGB ortho: 10 cm | LiDAR: 375 pts/m² | LiDAR: 1200 pts/m² | LiDAR: 2000 pts/m² | LiDAR: From 0 to 2000<br>pts/m² |
 | **Area of Interest** | 1000 m x 12000 m | 1680 m x 1550 m | 2000 m x 2000<br>m | 2000 m x 500 m | 275 m x 150 m | Flexible |
-| **Type of data** | LiDAR [(X GB)](http://): X, Y, Z, I | LiDAR [(X GB)](http://): X, Y, Z, I<br>Hyperspectral [(X GB)](http://): 364<br>bands<br>OrthoRGB [(X GB)](http://): R, G, B | LiDAR [(X GB)](http://): X, Y,<br>Z, I | LiDAR [(X GB)](http://): X, Y,<br>Z, SWIR, NIR,<br>Green | LiDAR [(X GB)](http://): X, Y,<br>Z, I, RGB | LiDAR [(X GB)](http://): X, Y,<br>Z, I |
+| **Type of data** | [LiDAR](#dataset-a-lidar): X, Y, Z, I | [LiDAR](#dataset-b-lidar): X, Y, Z, I<br>[Hyperspectral](#dataset-b-hyperspectral): 364<br>bands<br>[OrthoRGB](#dataset-b-orthorgb): R, G, B | [LiDAR](#dataset-c-lidar): X, Y,<br>Z, I | [LiDAR](#dataset-d-lidar): X, Y,<br>Z, SWIR, NIR,<br>Green | [LiDAR](#dataset-e-lidar): X, Y,<br>Z, I, RGB | [LiDAR](#dataset-f-lidar): X, Y,<br>Z, I |
 | **Biome** | Urban,<br>Continental | Dense, Continental | Dense, Mediterranean | Dense, Boreal | Dense, Alpine | Variable |
-| **Ground Truth** | ITS [(X GB)](http://), species [(X GB)](http://) (203<br>classes) | Species [(X GB)](http://) (5 classes) | ITS [(X GB)](http://) | FSS [(X GB)](http://) (6 classes) | ITS [(X GB)](http://), trunk sizes [(X GB)](http://),<br>tree species [(X GB)](http://) | ITS [(X GB)](http://), FSS [(X GB)](http://),<br>species [(X GB)](http://) |
+| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk sizes](#dataset-e-trunk),<br>[tree species](#dataset-e-species) | [ITS](#dataset-f-its), [FSS](#dataset-f-fss),<br>[species](#dataset-f-species) |
 
 </div>
 

@@ -108,7 +108,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 |:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
-</div>https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehu_-huJ0MhHlIkeaL-nBM8Baq6KdYYJnVxlE2u1x5HzQQ?e=j0ae6I
+</div>
 
 ---
 

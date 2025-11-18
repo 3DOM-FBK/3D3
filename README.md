@@ -110,7 +110,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 |:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
-</div>
+</div><img width="1671" height="1253" alt="a_lidar_1" src="https://github.com/user-attachments/assets/a3dcfda8-181d-4ae5-b1f5-1b039bfff3b6" />
+<img width="1100" height="686" alt="a_its_2" src="https://github.com/user-attachments/assets/aeb9b755-cbd2-4b54-accf-9d629383cb82" />
+<img width="1672" height="1253" alt="a_its_1" src="https://github.com/user-attachments/assets/61bf6493-8eaa-407d-9e83-620232e4f2f1" />
+<img width="1097" height="690" alt="a_lidar_2" src="https://github.com/user-attachments/assets/1a869ef6-50f2-46f7-b2c2-479e33cfd63b" />
+
 
 ---
 

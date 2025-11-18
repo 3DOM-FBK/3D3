@@ -7,7 +7,7 @@
 <p align="center">
   <strong>A multi-sensor multi-resolution dataset to support forest inventory methods</strong>  
   <br>
-  <a href="[pending-paper-link]">📄 Paper (Pending)</a> | <a href="https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/3D3?csf=1&web=1&e=lElsbe">🌲 Dataset</a>
+  📄 <a href="[pending-paper-link]">Paper (Pending)</a> | 🌲 <a href="https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/3D3?csf=1&web=1&e=lElsbe">Dataset</a>
 </p>
 
 ---

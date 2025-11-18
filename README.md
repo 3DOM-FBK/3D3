@@ -44,7 +44,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-a-lidar">**LiDAR [(X GB)](http://)**</span> | <span id="dataset-a-its">**ITS [(X GB)](http://)**</span> | <span id="dataset-a-species">**Species [(X GB)](http://)**</span> |
+| <span id="dataset-a-lidar">**LiDAR [(11.0 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Etu4l9TGL_xJoi7asBmsZh8B8YPJ9nKw4W9ilCMtoLoUPg?e=2cJjze)**</span> | <span id="dataset-a-its">**ITS [(X GB)](http://)**</span> | <span id="dataset-a-species">**Species [(X GB)](http://)**</span> |
 |:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -52,7 +52,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## <a id="dataset-b"></a><a href="">Dataset B</a>
+## <a id="dataset-b"></a><a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EvuDKHTQvdRIig29C7oTi-cBkUamLT7BvIdcIwPcggo0hg?e=zeEJd7">Dataset B</a>
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## <a id="dataset-c"></a><a href="">Dataset C</a>
+## <a id="dataset-c"></a><a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ek2QIVQ2Pl9HqT39hEOd4WkBNA-zvfO8WyGC9T7Tc8z5hw?e=dh6Qgi">Dataset C</a>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## <a id="dataset-d"></a><a href="">Dataset D</a>
+## <a id="dataset-d"></a><a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EvW_VU5Ed7NKjJDtVWmTdCUB_ZoLf1GH8tyukgAEDpIaCA?e=AGg1xg">Dataset D</a>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## <a id="dataset-e"></a><a href="">Dataset E</a>
+## <a id="dataset-e"></a><a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EqEvPSJ3hbFOpBUDYsJ11QMBtxZVct-7uitOFUwdBwFJ4g?e=obf5fb">Dataset E</a>
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## <a id="dataset-f"></a><a href="">Dataset F</a>
+## <a id="dataset-f"></a><a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ekss54R__w5JrPMlYxUpqKcBKZ29P_2JQava4wdQXjQuxw?e=wzXQz1">Dataset F</a>
 
 <div align="center">
 

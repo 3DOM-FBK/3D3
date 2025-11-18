@@ -48,7 +48,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 | <span id="dataset-a-lidar">**LiDAR [(11.0 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Etu4l9TGL_xJoi7asBmsZh8B8YPJ9nKw4W9ilCMtoLoUPg?e=2cJjze)**</span> | <span id="dataset-a-its">**ITS [(228 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EutNTlw-fKtNuRob8ONlObEBb0vdIKomshdrRUebR1a1Vg?e=mp5LZi)**</span> | <span id="dataset-a-species">**Species [(229 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EokRcM1iZt1AoP-jaE68jA0BZdb_5mTGSHjdwwgTcJZu4Q?e=SlxPUK)**</span> |
 |:---:|:---:|:---:|
-| <img alt="a_lidar_1" src="https://github.com/user-attachments/assets/a3dcfda8-181d-4ae5-b1f5-1b039bfff3b6" width="200"><br><img alt="a_lidar_2" src="https://github.com/user-attachments/assets/1a869ef6-50f2-46f7-b2c2-479e33cfd63b" width="200">| <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
+| <img alt="a_lidar_1" src="https://github.com/user-attachments/assets/a3dcfda8-181d-4ae5-b1f5-1b039bfff3b6" width="200"> <br> <img alt="a_lidar_2" src="https://github.com/user-attachments/assets/1a869ef6-50f2-46f7-b2c2-479e33cfd63b" width="200"> | <img alt="a_its_1" src="https://github.com/user-attachments/assets/61bf6493-8eaa-407d-9e83-620232e4f2f1" width="200"> <br> <img alt="a_its_2" src="https://github.com/user-attachments/assets/1a869ef6-50f2-46f7-b2c2-479e33cfd63b" width="200"> | <img src="[pending-image]" width="200"> |
 
 </div>
 

@@ -34,7 +34,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 | **Area of Interest** | 1000 m x 12000 m | 1680 m x 1550 m | 2000 m x 2000<br>m | 2000 m x 500 m | 275 m x 150 m | Flexible |
 | **Type of data** | [LiDAR](#dataset-a-lidar): X, Y, Z, I | [LiDAR](#dataset-b-lidar): X, Y, Z, I<br>[Hyperspectral](#dataset-b-hyperspectral): 364<br>bands<br>[OrthoRGB](#dataset-b-orthorgb): R, G, B | [LiDAR](#dataset-c-lidar): X, Y,<br>Z, I | [LiDAR](#dataset-d-lidar): X, Y,<br>Z, SWIR, NIR,<br>Green | [LiDAR](#dataset-e-lidar): X, Y,<br>Z, I, RGB | [LiDAR](#dataset-f-lidar): X, Y,<br>Z, I |
 | **Biome** | Urban,<br>Continental | Dense, Continental | Dense, Mediterranean | Dense, Boreal | Dense, Alpine | Variable |
-| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk sizes](#dataset-e-trunk),<br>[tree species](#dataset-e-species) | [ITS](#dataset-f-its), [FSS](#dataset-f-fss),<br>[species](#dataset-f-species) |
+| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [ITS](#dataset-b-its), [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk sizes](#dataset-e-trunk),<br>[tree species](#dataset-e-species) | [ITS](#dataset-f-its), [FSS](#dataset-f-fss),<br>[species](#dataset-f-species) |
 
 </div>
 
@@ -44,7 +44,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-a-lidar">**LiDAR [(11.0 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Etu4l9TGL_xJoi7asBmsZh8B8YPJ9nKw4W9ilCMtoLoUPg?e=2cJjze)**</span> | <span id="dataset-a-its">**ITS [(X GB)](http://)**</span> | <span id="dataset-a-species">**Species [(X GB)](http://)**</span> |
+| <span id="dataset-a-lidar">**LiDAR [(11.0 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Etu4l9TGL_xJoi7asBmsZh8B8YPJ9nKw4W9ilCMtoLoUPg?e=2cJjze)**</span> | <span id="dataset-a-its">**ITS [(228 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EutNTlw-fKtNuRob8ONlObEBb0vdIKomshdrRUebR1a1Vg?e=mp5LZi)**</span> | <span id="dataset-a-species">**Species [(229 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EokRcM1iZt1AoP-jaE68jA0BZdb_5mTGSHjdwwgTcJZu4Q?e=SlxPUK)**</span> |
 |:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -56,7 +56,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-b-lidar">**LiDAR [(X GB)](http://)**</span> | <span id="dataset-b-hyperspectral">**Hyperspectral [(X GB)](http://)**</span> | <span id="dataset-b-orthorgb">**OrthoRGB [(X GB)](http://)**</span> | <span id="dataset-b-species">**Species [(X GB)](http://)**</span> |
+| <span id="dataset-b-lidar">**LiDAR [(662 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/ErPsJ7UbAONBge8r_XsGfQEBuxqC0D0Gf0LJaDLAej0fTQ?e=1dqKtO)**</span> | <span id="dataset-b-hyperspectral">**Hyperspectral [(4.90 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eklh8dRXNTxMs6F6K5j0UM8BSiBKZ-MqIPX3l4iG3ZmPqg?e=HmGjR9)**</span> | <span id="dataset-b-orthorgb">**OrthoRGB [(738 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EjlE6bFt7dVNmPsvL-q2QNQBk91JDq7HCJrSs2zt5Y_18A?e=erXc1a)**</span> | <span id="dataset-b-its">**ITS [(4.38 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EhLxiFqrYV1Pjfs6uOJmEVwBfoPl345BGl1Jn1aDdYjQDg?e=bh99DH)**</span> |<span id="dataset-b-species">**Species [(57.3 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ev6wZx68d1VPlr-zla3zaXcBTmuPlbLdtS_9cxuPthQE8Q?e=aTqAaJ)**</span> |
 |:---:|:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 

@@ -26,7 +26,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
   
-| **Dataset [(X GB)](http://)** | **A [(X GB)](#dataset-a)** | **B [(X GB)](#dataset-b)** | **C [(X GB)](#dataset-c)** | **D [(X GB)](#dataset-d)** | **E [(X GB)](#dataset-e)** | **F [(X GB)](#dataset-f)** |
+| **Dataset (X GB)** | **[A](#dataset-a)** | **[B](#dataset-b)** | **[C](#dataset-c)** | **[D](#dataset-d)** | **[E](#dataset-e)** | **[F](#dataset-f)** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Instrument** | Riegl VQ780ii<br>Mono-wavelength<br>LiDAR (1064 nm) | Teledyne Optech<br>GALAXY T1000 -<br>Mono-wavelength<br>LiDAR (1064 nm);<br>SPECIM AISAFENIX<br>- Hyperspectral<br>camera (381.35 nm to<br>2502.38 nm);<br>PhaseOne iXU-RS<br>1000 RGB camera | Riegl VUX-120<br>Monowavelength<br>LiDAR (1550<br>nm);<br>PhaseOne<br>iXM100<br>RSM35 RGB<br>camera | HeliALS<br>multispectral<br>LiDAR:<br>VQ-840-G (532<br>nm),<br>miniVUX-1DL<br>(905 nm),<br>VUX-1HA<br>(1550 nm) | DJI-L1 Monowavelength<br>LiDAR (905<br>nm) | Semi-Synthetic |
 | **Platform** | Aircraft | Aircraft | Helicopter | Helicopter | UAV, MLS and<br>TLS | Miscellaneous |
@@ -40,11 +40,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## Dataset A
+## Dataset A {#dataset-a}
 
 <div align="center">
 
-| **LiDAR [(X GB)](#dataset-a-lidar)** | **ITS [(X GB)](#dataset-a-its)** | **Species [(X GB)](#dataset-a-species)** |
+| <span id="dataset-a-lidar">**LiDAR (X GB)**</span> | <span id="dataset-a-its">**ITS (X GB)**</span> | <span id="dataset-a-species">**Species (X GB)**</span> |
 |:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -52,11 +52,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## Dataset B
+## Dataset B {#dataset-b}
 
 <div align="center">
 
-| **LiDAR [(X GB)](#dataset-b-lidar)** | **Hyperspectral [(X GB)](#dataset-b-hyperspectral)** | **OrthoRGB [(X GB)](#dataset-b-orthorgb)** | **Species [(X GB)](#dataset-b-species)** |
+| <span id="dataset-b-lidar">**LiDAR (X GB)**</span> | <span id="dataset-b-hyperspectral">**Hyperspectral (X GB)**</span> | <span id="dataset-b-orthorgb">**OrthoRGB (X GB)**</span> | <span id="dataset-b-species">**Species (X GB)**</span> |
 |:---:|:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -64,11 +64,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## Dataset C
+## Dataset C {#dataset-c}
 
 <div align="center">
 
-| **LiDAR [(X GB)](#dataset-c-lidar)** | **ITS [(X GB)](#dataset-c-its)** |
+| <span id="dataset-c-lidar">**LiDAR (X GB)**</span> | <span id="dataset-c-its">**ITS (X GB)**</span> |
 |:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -76,11 +76,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## Dataset D
+## Dataset D {#dataset-d}
 
 <div align="center">
 
-| **LiDAR [(X GB)](#dataset-d-lidar)** | **FSS [(X GB)](#dataset-d-fss)** |
+| <span id="dataset-d-lidar">**LiDAR (X GB)**</span> | <span id="dataset-d-fss">**FSS (X GB)**</span> |
 |:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -88,11 +88,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## Dataset E
+## Dataset E {#dataset-e}
 
 <div align="center">
 
-| **LiDAR [(X GB)](#dataset-e-lidar)** | **ITS [(X GB)](#dataset-e-its)** | **Trunk sizes [(X GB)](#dataset-e-trunk)** | **Tree species [(X GB)](#dataset-e-species)** |
+| <span id="dataset-e-lidar">**LiDAR (X GB)**</span> | <span id="dataset-e-its">**ITS (X GB)**</span> | <span id="dataset-e-trunk">**Trunk sizes (X GB)**</span> | <span id="dataset-e-species">**Tree species (X GB)**</span> |
 |:---:|:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -100,11 +100,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 ---
 
-## Dataset F
+## Dataset F {#dataset-f}
 
 <div align="center">
 
-| **LiDAR [(X GB)](#dataset-f-lidar)** | **ITS [(X GB)](#dataset-f-its)** | **FSS [(X GB)](#dataset-f-fss)** | **Species [(X GB)](#dataset-f-species)** |
+| <span id="dataset-f-lidar">**LiDAR (X GB)**</span> | <span id="dataset-f-its">**ITS (X GB)**</span> | <span id="dataset-f-fss">**FSS (X GB)**</span> | <span id="dataset-f-species">**Species (X GB)**</span> |
 |:---:|:---:|:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 

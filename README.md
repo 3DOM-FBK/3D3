@@ -26,7 +26,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
   
-| **Dataset** | **[A](#dataset-a)** | **[B](#dataset-b)** | **[C](#dataset-c)** | **[D](#dataset-d)** | **[E](#dataset-e)** | **[F](#dataset-f)** |
+| **<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">Dataset</a>** | **[A](#dataset-a)** | **[B](#dataset-b)** | **[C](#dataset-c)** | **[D](#dataset-d)** | **[E](#dataset-e)** | **[F](#dataset-f)** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Instrument** | Riegl VQ780ii<br>Mono-wavelength<br>LiDAR (1064 nm) | Teledyne Optech<br>GALAXY T1000 -<br>Mono-wavelength<br>LiDAR (1064 nm);<br>SPECIM AISAFENIX<br>- Hyperspectral<br>camera (381.35 nm to<br>2502.38 nm);<br>PhaseOne iXU-RS<br>1000 RGB camera | Riegl VUX-120<br>Monowavelength<br>LiDAR (1550<br>nm);<br>PhaseOne<br>iXM100<br>RSM35 RGB<br>camera | HeliALS<br>multispectral<br>LiDAR:<br>VQ-840-G (532<br>nm),<br>miniVUX-1DL<br>(905 nm),<br>VUX-1HA<br>(1550 nm) | DJI-L1 Monowavelength<br>LiDAR (905<br>nm) | Semi-Synthetic |
 | **Platform** | Aircraft | Aircraft | Helicopter | Helicopter | UAV, MLS and<br>TLS | Miscellaneous |
@@ -34,7 +34,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 | **Area of Interest** | 1000 m x 12000 m | 1680 m x 1550 m | 2000 m x 2000<br>m | 2000 m x 500 m | 275 m x 150 m | Flexible |
 | **Type of data** | [LiDAR](#dataset-a-lidar): X, Y, Z, I | [LiDAR](#dataset-b-lidar): X, Y, Z, I<br>[Hyperspectral](#dataset-b-hyperspectral): 364<br>bands<br>[OrthoRGB](#dataset-b-orthorgb): R, G, B | [LiDAR](#dataset-c-lidar): X, Y,<br>Z, I | [LiDAR](#dataset-d-lidar): X, Y,<br>Z, SWIR, NIR,<br>Green | [LiDAR](#dataset-e-lidar): X, Y,<br>Z, I, RGB | [LiDAR](#dataset-f-lidar): X, Y,<br>Z, I |
 | **Biome** | Urban,<br>Continental | Dense, Continental | Dense, Mediterranean | Dense, Boreal | Dense, Alpine | Variable |
-| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [ITS](#dataset-b-its), [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk size](#dataset-e-parameters),<br>[tree type](#dataset-e-parameters), [tree height](#dataset-e-parameters) | [ITS](#dataset-f-its), [FSS](#dataset-f-fss),<br>[species](#dataset-f-species) |
+| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [ITS](#dataset-b-its), [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk size](#dataset-e-parameters),<br>[tree type](#dataset-e-parameters), [tree height](#dataset-e-parameters) | [ITS](#dataset-f-trees), [species](#dataset-f-trees) |
 
 </div>
 
@@ -104,11 +104,11 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-f-lidar">**LiDAR [(X GB)](http://)**</span> | <span id="dataset-f-its">**ITS [(X GB)](http://)**</span> | <span id="dataset-f-fss">**FSS [(X GB)](http://)**</span> | <span id="dataset-f-species">**Species [(X GB)](http://)**</span> |
-|:---:|:---:|:---:|:---:|
-| <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
+| <span id="dataset-f-trees">**Trees [(30.1 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehwg1fHK_hhHmzRSFN_wnZMBvZOjAdxSaNN1LxRNppq2MA?e=8pp3tl)**</span> | <span>**SSGT generator [(189 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehu_-huJ0MhHlIkeaL-nBM8Baq6KdYYJnVxlE2u1x5HzQQ?e=0agR1F)**</span> |
+|:---:|:---:|
+| <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
-</div>
+</div>https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehu_-huJ0MhHlIkeaL-nBM8Baq6KdYYJnVxlE2u1x5HzQQ?e=j0ae6I
 
 ---
 

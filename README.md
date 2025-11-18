@@ -34,7 +34,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 | **Area of Interest** | 1000 m x 12000 m | 1680 m x 1550 m | 2000 m x 2000<br>m | 2000 m x 500 m | 275 m x 150 m | Flexible |
 | **Type of data** | [LiDAR](#dataset-a-lidar): X, Y, Z, I | [LiDAR](#dataset-b-lidar): X, Y, Z, I<br>[Hyperspectral](#dataset-b-hyperspectral): 364<br>bands<br>[OrthoRGB](#dataset-b-orthorgb): R, G, B | [LiDAR](#dataset-c-lidar): X, Y,<br>Z, I | [LiDAR](#dataset-d-lidar): X, Y,<br>Z, SWIR, NIR,<br>Green | [LiDAR](#dataset-e-lidar): X, Y,<br>Z, I, RGB | [LiDAR](#dataset-f-lidar): X, Y,<br>Z, I |
 | **Biome** | Urban,<br>Continental | Dense, Continental | Dense, Mediterranean | Dense, Boreal | Dense, Alpine | Variable |
-| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [ITS](#dataset-b-its), [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk sizes](#dataset-e-trunk),<br>[tree species](#dataset-e-species) | [ITS](#dataset-f-its), [FSS](#dataset-f-fss),<br>[species](#dataset-f-species) |
+| **Ground Truth** | [ITS](#dataset-a-its), [species](#dataset-a-species) (203<br>classes) | [ITS](#dataset-b-its), [Species](#dataset-b-species) (5 classes) | [ITS](#dataset-c-its) | [FSS](#dataset-d-fss) (6 classes) | [ITS](#dataset-e-its), [trunk size](#dataset-e-parameters),<br>[tree type](#dataset-e-parameters), [tree height](#dataset-e-parameters) | [ITS](#dataset-f-its), [FSS](#dataset-f-fss),<br>[species](#dataset-f-species) |
 
 </div>
 
@@ -68,7 +68,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-c-lidar">**LiDAR [(X GB)](http://)**</span> | <span id="dataset-c-its">**ITS [(X GB)](http://)**</span> |
+| <span id="dataset-c-lidar">**LiDAR [(4.29 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnX_f9VycutAkrTaGiY8m3kBnOQ7ethtR2nBQ0fYxMedBA?e=6fzAmN)**</span> | <span id="dataset-c-its">**ITS [(8.74 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eosrtlr7Qq1AvTdDje31wTQBhRNapK3MrrkDUglJO8F55Q?e=1Wwwfy)**</span> |
 |:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -80,7 +80,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-d-lidar">**LiDAR [(X GB)](http://)**</span> | <span id="dataset-d-fss">**FSS [(X GB)](http://)**</span> |
+| <span id="dataset-d-lidar">**LiDAR [(111 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eg2R-dDEBwlMs5OiINz9nUkBjwPbgbaZYgR7dcnkaD1rLg?e=aol0f3)**</span> | <span id="dataset-d-fss">**FSS [(111 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Erw6-L6SHq5HsjLybdTP03EBXGmhtA6JyMvjBqJIPjohkg?e=DSKLh5)**</span> |
 |:---:|:---:|
 | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
@@ -92,9 +92,9 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
 
-| <span id="dataset-e-lidar">**LiDAR [(X GB)](http://)**</span> | <span id="dataset-e-its">**ITS [(X GB)](http://)**</span> | <span id="dataset-e-trunk">**Trunk sizes [(X GB)](http://)**</span> | <span id="dataset-e-species">**Tree species [(X GB)](http://)**</span> |
-|:---:|:---:|:---:|:---:|
-| <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
+| <span id="dataset-e-lidar">**LiDAR [(296 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eq-5iMbGd2pDqjvJKaDEgk8Bz6FC1EVSxYEv1m787TwH4g?e=YhRcaa)**</span> | <span id="dataset-e-its">**ITS [(5.08 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/ErcNhlDMLSxHi6a_WZy0MmMBlCle0sO2rqCpCXEH9v4jZg?e=MzZslX)**</span> | <span id="dataset-e-parameters">**Trunk size [(47.8 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EmfSN6k3jHhJjH7s2n-rfoYBkmEeCKWLnWWqVjETU-Mqjg?e=p9bigf)**</span> | <span>**Tree type [(47.8 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EmfSN6k3jHhJjH7s2n-rfoYBkmEeCKWLnWWqVjETU-Mqjg?e=p9bigf)**</span> | <span>**Tree height [(47.8 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EmfSN6k3jHhJjH7s2n-rfoYBkmEeCKWLnWWqVjETU-Mqjg?e=p9bigf)**</span> |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
 
 </div>
 

@@ -60,7 +60,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 | <span id="dataset-b-lidar">**LiDAR [(662 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/ErPsJ7UbAONBge8r_XsGfQEBuxqC0D0Gf0LJaDLAej0fTQ?e=1dqKtO)**</span> | <span id="dataset-b-hyperspectral">**Hyperspectral [(4.90 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eklh8dRXNTxMs6F6K5j0UM8BSiBKZ-MqIPX3l4iG3ZmPqg?e=HmGjR9)**</span> | <span id="dataset-b-orthorgb">**OrthoRGB [(738 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EjlE6bFt7dVNmPsvL-q2QNQBk91JDq7HCJrSs2zt5Y_18A?e=erXc1a)**</span> | <span id="dataset-b-its">**ITS [(4.38 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EhLxiFqrYV1Pjfs6uOJmEVwBfoPl345BGl1Jn1aDdYjQDg?e=bh99DH)**</span> | <span id="dataset-b-species">**Species [(57.3 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ev6wZx68d1VPlr-zla3zaXcBTmuPlbLdtS_9cxuPthQE8Q?e=aTqAaJ)**</span> |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> | <img src="[pending-image]" width="200"> |
+| <img width="210" alt="image" src="https://github.com/user-attachments/assets/e08b960d-249e-49cf-876f-d98ab59808cd" /> | <img src="[pending-image]" width="200"> | <img width="210"  alt="image" src="https://github.com/user-attachments/assets/2e1cb246-ce0e-45fe-86bd-318ac030e798" /> | <img width="210" alt="image" src="https://github.com/user-attachments/assets/b1fbf700-74c1-4bac-bc65-eac5e21d86b7" /> | <img src="[pending-image]" width="200"> |
 
 </div>
 

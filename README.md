@@ -74,7 +74,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 | <span id="dataset-c-lidar">**LiDAR [(4.29 GB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnX_f9VycutAkrTaGiY8m3kBnOQ7ethtR2nBQ0fYxMedBA?e=6fzAmN)**</span> | <span id="dataset-c-its">**ITS [(8.74 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eosrtlr7Qq1AvTdDje31wTQBhRNapK3MrrkDUglJO8F55Q?e=1Wwwfy)**</span> |
 |:---:|:---:|
-| <img width="450" alt="image" src="https://github.com/user-attachments/assets/a22a5023-a27a-4f59-8261-02d82537cb17" /> <br>  <img width="450" alt="image" src="https://github.com/user-attachments/assets/5105d97d-4689-40d4-9d79-0af93c986ce7" /> | <img width="450" alt="image" src="https://github.com/user-attachments/assets/b41d23da-1d27-4a22-a4d2-da894218ff0d" /> <br> <img width="450" alt="image" src="https://github.com/user-attachments/assets/fb983eea-90f3-47b1-8a3c-d62576d8f432" /> |
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/a22a5023-a27a-4f59-8261-02d82537cb17" /> <br>  <img width="400" alt="image" src="https://github.com/user-attachments/assets/5105d97d-4689-40d4-9d79-0af93c986ce7" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/b41d23da-1d27-4a22-a4d2-da894218ff0d" /> <br> <img width="400" alt="image" src="https://github.com/user-attachments/assets/fb983eea-90f3-47b1-8a3c-d62576d8f432" /> |
 
 </div>
 

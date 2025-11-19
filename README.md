@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[pending-image-link]" width="80%">
-</p>
-
 <h1 align="center">3D3 Benchmark Dataset</h1>
 
 <p align="center">

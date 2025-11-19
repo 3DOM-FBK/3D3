@@ -1,3 +1,9 @@
+<p align="center">
+  <img height="200" alt="image" src="https://github.com/user-attachments/assets/8a4902a5-59de-4ca1-9dbb-b417512ba8f1" />
+  <img height="200" alt="image" src="https://github.com/user-attachments/assets/aba6146a-c625-4d6b-b66d-83f34ac4d832" />
+  <img height="200" alt="image" src="https://github.com/user-attachments/assets/a10c26a6-5ea6-48c3-9ce5-ce2a4947e130" />
+</p>
+
 <h1 align="center">3D3 Benchmark Dataset</h1>
 
 <p align="center">

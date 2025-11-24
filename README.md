@@ -109,7 +109,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 | <span id="dataset-f-trees">**Trees [(30.1 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehwg1fHK_hhHmzRSFN_wnZMBvZOjAdxSaNN1LxRNppq2MA?e=8pp3tl)**</span> | <span>**SSGT generator [(189 KB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehu_-huJ0MhHlIkeaL-nBM8Baq6KdYYJnVxlE2u1x5HzQQ?e=0agR1F)**</span> |
 |:---:|:---:|
-| <img height="250" alt="image" src="https://github.com/user-attachments/assets/1c29df55-9066-40d6-97c4-4eab9b0bddce" /> | <img height="250" alt="image" src="https://github.com/user-attachments/assets/541b6e58-38aa-46c1-aed8-b083a888b26c" /> |
+| <img height="250" alt="image" src="https://github.com/user-attachments/assets/1c29df55-9066-40d6-97c4-4eab9b0bddce" /> | <img height="250" alt="Screenshot 2025-11-18 194646" src="https://github.com/user-attachments/assets/5576c47c-9bca-40d0-8b33-633ef61e5272" /> |
 
 ---
 

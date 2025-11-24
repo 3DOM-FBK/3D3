@@ -8,7 +8,7 @@
 
 <p align="center">
   <br>
-  <a>Bocaux, L., Takhtkeshha. N., Ma, Z., Remondino, F., 2025: <strong>A multi-sensor multi-resolution dataset to support forest inventory methods.</strong>strong Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., in press – Geobench 2025 workshop, in press </a><br> 
+  <a>Bocaux, L., Takhtkeshha. N., Ma, Z., Remondino, F., 2025: <strong>A multi-sensor multi-resolution dataset to support forest inventory methods.</strong> Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., in press – Geobench 2025 workshop, in press </a><br> 
   | 🌲 <a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">All data available here</a> 🌲 | 
 </p>
 

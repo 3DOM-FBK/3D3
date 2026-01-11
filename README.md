@@ -8,7 +8,7 @@
 
 <p align="center">
   <br>
-  <a>Bocaux, L., Takhtkeshha, N., Ma, Z., Remondino, F., 2025: <br><strong><a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W6-2025/33/2025/">A multi-sensor multi-resolution dataset to support forest inventory methods.</a></strong><br>Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., in press – Geobench 2025 workshop, in press </a><br> 
+  <a>Bocaux, L., Takhtkeshha, N., Ma, Z., Remondino, F., 2025: <br><strong><a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W6-2025/33/2025/">A multi-sensor multi-resolution dataset to support forest inventory methods.</a></strong><br>Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., in press – Geobench 2025 workshop, Volume XLVIII-1/W6-2025<br> 
   | 🌲 <a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">All data available here</a> 🌲 | <br>contact: 3dom@fbk.eu
 </p>
 

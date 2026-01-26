@@ -108,7 +108,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 <div align="center">
 
 | <span id="dataset-f-trees">**Trees [(30.1 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehwg1fHK_hhHmzRSFN_wnZMBvZOjAdxSaNN1LxRNppq2MA?e=8pp3tl)**</span> |
-|:---:||
+|:---:|
 | <img height="250" alt="image" src="https://github.com/user-attachments/assets/1c29df55-9066-40d6-97c4-4eab9b0bddce" /> |
 
 ---

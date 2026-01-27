@@ -101,14 +101,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 | <img width="320" alt="image" src="https://github.com/user-attachments/assets/9279b1cd-f8e9-48d9-bf00-5ee77f606eda" /> | <img width="320" alt="image" src="https://github.com/user-attachments/assets/2a1705cc-6bfa-4d27-85fd-d8cb77da365b" /> | <img width="320" alt="image" src="https://github.com/user-attachments/assets/56784f17-e227-4c1a-9717-12c91f415d5e" /> |
 </div>
 
----
 
-### <a id="dataset-f"></a><a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ekss54R__w5JrPMlYxUpqKcBKZ29P_2JQava4wdQXjQuxw?e=wzXQz1">Dataset F</a>
-
-<div align="center">
-
-| <span id="dataset-f-trees">**Trees [(30.1 MB)](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehwg1fHK_hhHmzRSFN_wnZMBvZOjAdxSaNN1LxRNppq2MA?e=8pp3tl)**</span> |
-|:---:|
 | <img height="250" alt="image" src="https://github.com/user-attachments/assets/1c29df55-9066-40d6-97c4-4eab9b0bddce" /> |
 
 ---

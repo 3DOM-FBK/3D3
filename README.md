@@ -28,7 +28,7 @@ Each site provides **ground truth for at least one core task of high-resolution 
 
 <div align="center">
   
-| **<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">Dataset</a>** | **[A](#dataset-a)** | **[B](#dataset-b)** | **[C](#dataset-c)** | **[D](#dataset-d)** | **[E](#dataset-e)** | **[F]** |
+| **<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">Dataset</a>** | **[A](#dataset-a)** | **[B](#dataset-b)** | **[C](#dataset-c)** | **[D](#dataset-d)** | **[E](#dataset-e)** | **F** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Instrument** | Riegl VQ780ii<br>Mono-wavelength<br>LiDAR (1064 nm) | Teledyne Optech<br>GALAXY T1000 -<br>Mono-wavelength<br>LiDAR (1064 nm);<br>SPECIM AISAFENIX<br>- Hyperspectral<br>camera (381.35 nm to<br>2502.38 nm);<br>PhaseOne iXU-RS<br>1000 RGB camera | Riegl VUX-120<br>Monowavelength<br>LiDAR (1550<br>nm);<br>PhaseOne<br>iXM100<br>RSM35 RGB<br>camera | HeliALS<br>multispectral<br>LiDAR:<br>VQ-840-G (532<br>nm),<br>miniVUX-1DL<br>(905 nm),<br>VUX-1HA<br>(1550 nm) | DJI-L1 Monowavelength<br>LiDAR (905<br>nm) | Semi-Synthetic |
 | **Platform** | Aircraft | Aircraft | Helicopter | Helicopter | UAV, MLS and<br>TLS | Miscellaneous |

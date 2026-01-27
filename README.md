@@ -9,7 +9,7 @@
 <p align="center">
   <br>
   <a>Bocaux, L., Takhtkeshha, N., Ma, Z., Remondino, F., 2025: <br><strong><a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W6-2025/33/2025/">A multi-sensor multi-resolution dataset to support forest inventory methods.</a></strong><br>Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., in press – Geobench 2025 workshop, Volume XLVIII-1/W6-2025<br> 
-  | 🌲 <a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">All data available here</a> (20.0 GB) 🌲 | <br>contact: 3dom@fbk.eu
+  | 🌲 <a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EomUL1NvtNdDivGfWtDj_zkB6Kpz5BYwqs8GRpmBLJj5OQ?e=jVhuRo">All data available here</a> (ca 20.0 GB) 🌲 | <br>contact: 3dom@fbk.eu
 </p>
 
 ---
@@ -101,8 +101,6 @@ Each site provides **ground truth for at least one core task of high-resolution 
 | <img width="320" alt="image" src="https://github.com/user-attachments/assets/9279b1cd-f8e9-48d9-bf00-5ee77f606eda" /> | <img width="320" alt="image" src="https://github.com/user-attachments/assets/2a1705cc-6bfa-4d27-85fd-d8cb77da365b" /> | <img width="320" alt="image" src="https://github.com/user-attachments/assets/56784f17-e227-4c1a-9717-12c91f415d5e" /> |
 </div>
 
-
-| <img height="250" alt="image" src="https://github.com/user-attachments/assets/1c29df55-9066-40d6-97c4-4eab9b0bddce" /> |
 
 ---
 
